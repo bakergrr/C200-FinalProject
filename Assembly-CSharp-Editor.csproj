@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5E4C45A8-8B88-93D8-47DE-CD5577329206}</ProjectGuid>
+    <ProjectGuid>{ABA3FC63-3962-500E-3CCB-8AFC5C3E65CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1130,15 +1130,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{47D43B41-C423-87AF-0825-0CB6FBB4A9D4}</Project>
+      <Project>{7D96C7FA-235A-B3BB-6496-207FF89E9D48}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="InkEditor.csproj">
-      <Project>{15BC0335-1525-E821-0C58-2FB564D3068C}</Project>
+      <Project>{F8186588-CFEA-A9DD-6E41-490F54CB3A37}</Project>
       <Name>InkEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Ink-Libraries.csproj">
-      <Project>{F2E60A8B-957F-DDB8-A4EC-5DDF3EAAEA75}</Project>
+      <Project>{E8B11CD2-9EAA-EC71-4AB6-17F87884A9C8}</Project>
       <Name>Ink-Libraries</Name>
     </ProjectReference>
   </ItemGroup>

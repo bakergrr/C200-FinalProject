@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F2E60A8B-957F-DDB8-A4EC-5DDF3EAAEA75}</ProjectGuid>
+    <ProjectGuid>{E8B11CD2-9EAA-EC71-4AB6-17F87884A9C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Ink-Libraries</AssemblyName>
