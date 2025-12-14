@@ -6,6 +6,8 @@ public enum SpellsEnum
 {
     Fireball,
     GiantGrowth,
-    Lightning
+    Lightning,
+    Wormhole,
+    ForceField
     
 }
