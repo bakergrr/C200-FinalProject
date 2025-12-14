@@ -8,6 +8,5 @@ public enum SpellsEnum
     GiantGrowth,
     Lightning,
     Wormhole,
-    ForceField
     
 }
