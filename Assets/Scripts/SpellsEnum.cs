@@ -5,6 +5,7 @@ using UnityEngine;
 public enum SpellsEnum 
 {
     Fireball,
-    GiantGrowth
+    GiantGrowth,
+    Lightning
     
 }
