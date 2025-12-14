@@ -10,6 +10,7 @@ TagManager:
   - PlayerProjectile
   - EnemyProjectile
   - PlayingField
+  - Lightning
   layers:
   - Default
   - TransparentFX
